@@ -1,12 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Hi%20there!&fontSize=90&theme=tokyonight&animation=twinkling)
 
-### Hi there 👋
-
 #### I'm Arpi, a full-stack Software Developer based in Toronto, ON!
 
 ### Skills
 
-
+<i class="devicon-html5-plain-wordmark colored"></i>
 
 <!--
 **arpiii/arpiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
