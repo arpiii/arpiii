@@ -3,8 +3,9 @@
 #### I'm Arpi, a full-stack Software Developer based in Toronto, ON!
 
 ### Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-<i class="devicon-html5-plain-wordmark colored"></i>
+
 
 <!--
 **arpiii/arpiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
