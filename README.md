@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## I'm Arpi, a full-stack Software Developer based in Toronto, ON!
+
+### Skills
+
+
+
 <!--
 **arpiii/arpiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
